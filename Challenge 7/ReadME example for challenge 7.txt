@@ -1,1 +1,0 @@
-Include description of the challenge, the problem to solve, any examples, requirements and other data.
