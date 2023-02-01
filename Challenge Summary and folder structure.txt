@@ -1,8 +1,0 @@
-Challenge Summary - Weather events have become more extreme and more detrimental... The challenge summary should contain a story providing 
-an overview of the issues for the challenge. Any organisations involved in the challenge and what the ideal solution will provide in solving the problem.
-
-Folder structure - Please ensure your solution file, contains the following folder structure.
-Dataset folder - Name: Dataset, include a read me or text file containing a description of the dataset and the source.
-Solution folder - Name: Solution, include a read me or text file containing the challenge summary, partipants names, link or embed a video, and include the link to the dataset folder.
-
-
