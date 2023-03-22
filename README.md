@@ -1,9 +1,19 @@
+# Project Data Analytics Community
+
+The Project Data Analytics Community is a community of project professionals, data analysts and industr experts dedicated to improving project delivery through the power of data and analytics. As part of this community we regularly run our Project:Hack Hackathons where we tackle real world problems with data driven solutions.
+
+https://www.linkedin.com/company/pdacommunity/
+
+The Project Data Analytics Community is Sponsored by Projecting Success.
+
+https://www.linkedin.com/company/projsuccess/
 
 # Hack-17
 
-The Hack 17 repository is designed to store full end to end working solutions deemed appropriate for open source solutions.
+The Hack 18 repository is designed to store full end to end working solutions deemed appropriate for open source solutions.
 
-The main purpose for Hack 17 is to solve business problems around project foresight, prediction, risk management and data analytics.
+The main purpose for Hack 18 is to solve business problems around project foresight, prediction, risk management and data analytics.
+
 ## List of Challenges
 
 People - Human Behaviours in Projects
@@ -44,21 +54,6 @@ Controls - Automated WBS
 
 Controls - Quality/Right First Time
 - 19.UNSPSC - A spoonful of UNSPSC's makes the medicine go down
-
-## Folder Structure & Documentation
-
-When creating your solution folder, ensure it is uploaded to the correct directory for the challenge.
-
-Follow the below example of the folder structure - 
-- Delivery Support (folder)
-    - Logistics (folder)
-        - Challenge 7 - Team 7b Weather Boys (folder)
-            - Dataset (folder)
-                - README or txt file containing description and source of dataset
-            - Solution (folder)
-                - ReadME or txt file containing Challenge summary, participants names, link or embedded Youtube video.
-
-
 
 ## Support
 
