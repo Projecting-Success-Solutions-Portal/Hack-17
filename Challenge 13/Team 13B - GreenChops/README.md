@@ -1,7 +1,9 @@
 # Team 13B - GreenChops
 **Solution**
 
-![alt text](?raw=true)
+GreenChops have used PowerBI to create a detailed analytical breakdown of the carbon emissions produced by buildings. There tool also allows building managers to fill out details of there building in order to get more accurate insight into the specific emissions of there facility.
+
+![alt text](https://github.com/Projecting-Success-Solutions-Portal/Hack-17/blob/main/Challenge%2013/Team%2013B%20-%20GreenChops/Team%2013B%20Cover%20Image.png?raw=true)
 
 **Participants Names**
 
