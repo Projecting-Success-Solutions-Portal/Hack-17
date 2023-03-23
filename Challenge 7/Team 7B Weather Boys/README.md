@@ -3,7 +3,7 @@
 
 
 
-![alt text](?raw=true)
+![alt text](https://github.com/Projecting-Success-Solutions-Portal/Hack-17/blob/main/Challenge%207/Team%207B%20Weather%20Boys/Team%207B%20Cover%20Image.png?raw=true)
 
 **Participants Names**
 
