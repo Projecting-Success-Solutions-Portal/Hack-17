@@ -61,12 +61,3 @@ The output for this challenge is a data analysis tool that allows users to set t
 This challenge will have immediate benefits for users and most importantly greatly reduce personnel hours needed. With all the weather data being presented live and automatically people can respond immediately and with the right information. It will reduce cost, improve safety and improve efficiency.
 The tool will also improve project performance, provide clarity to all those using it and guarantee consistency with both reporting and operations.
 It will also provide assurance to senior leaders and management teams by clearly tracking and recording events, collating them for anyone that needs them.
-
-# Dataset Description
-
-The dataset has been derived from real life data provided by weather based services, found on the internet. This is open to the public.
-
-# Dataset Source
-
-The source of the dataset is provided by the met office.
-https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/datasets
